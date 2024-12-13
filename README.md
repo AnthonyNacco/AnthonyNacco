@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Anthony Nacco
-- I hold a Master's Degree in Cybersecurity and I am currently working through the Rutgers University Cyber Security Bootcamp Program
-- I'm actively seeking a transition into the field of Cyber Security
-- This GitHub page will showcase my projects, scripts, and CTF's I've completed. 
+
